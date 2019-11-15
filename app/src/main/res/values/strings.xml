@@ -1,0 +1,10 @@
+<resources>
+    <string name="appname">Cat Search</string>
+    <string name="no_value">No value</string>
+
+    <string name = "addToFavourite">
+        <br>
+            Add to Favourite \n
+        </br>
+    </string>
+</resources>
